@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there and welcome! 🙋‍♂️
 
-<!--
-**cybersecryan/cybersecryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Ryan and I am a tech support engineer with a background in cybersecurity. 👨‍💻
+### Credentials:
+* BTAS in Computer Technology with a focus on Security and Forensics 👨‍🎓🔎
+* Google Cybersecurity Professional Certificate (in progress) 📜
+* CompTIA Security+ (in progress) 📜
 
-Here are some ideas to get you started:
+### Strengths/Skills:
+* Strong written and verbal communication. ✏️🗣️
+* Excellent time management. 🕙
+* In-depth analytical skills. 🕵️
+* Proficient in Splunk and Wireshark. 🖥️🦈
+* Experienced programming knowledge in Python and SQL. 🐍🗒️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Values:
+* Ethical mindset to always do the right thing. ⚖️
+* Passion for protecting user data day in and day out. 👩‍💻🔐
+* Desire to continuously improve my knowledge of the current cybersecurity landscape. 👨‍🔬📈
+
+### Find me on the web! 🌐
+* [Twitter](https://twitter.com/cybersecryan) 🐦
+* [Github](https://github.com/cybersecryan)
+* [LinkedIn](https://www.linkedin.com/in/ryan-d-b04365b8/)
+
+
+
+
