@@ -23,7 +23,7 @@
 
 ### Find me on the web! 🌐
 * [Twitter](https://twitter.com/cybersecryan)
-* [GitHub](https://github.com/cybersecryan)
+* [GitHub Pages](https://cybersecryan.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/ryan-d-b04365b8/)
 
 
