@@ -9,12 +9,16 @@
 * Google Cybersecurity Professional Certificate (in progress) 📜
 * CompTIA Security+ (in progress) 📜
 
+### Tech Stack:
+* Splunk 🖥️
+* Wireshark/Nmap 🦈 🔎
+* Python 🐍
+* SQL 🗒️
+
 ### Strengths/Skills:
 * Strong written and verbal communication. ✏️🗣️
 * Excellent time management. 🕙
 * In-depth analytical skills. 🕵️
-* Proficient in Splunk and Wireshark. 🖥️🦈
-* Experienced programming knowledge in Python and SQL. 🐍🗒️
 
 ### Personal Values:
 * Ethical mindset to always do the right thing. ⚖️
